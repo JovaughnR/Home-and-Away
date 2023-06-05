@@ -33,7 +33,7 @@ Clone the repository to your local machine using the following command:
 - Compile the C++ source files using `make` command.
 
 - Run the compiled executable to start the system:
-  - ./main
+ `./main`
 
 
 ## Usage
